@@ -1,0 +1,76 @@
+body{
+    background-color:black;
+    color:beige;
+}
+.name h1{
+    text-align:center;
+    font-size:50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.name{
+    line-height:15px;
+}
+.name p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:35px;
+    text-align:center;
+}
+.links{
+    text-align:center;
+}
+.links a{
+    color:#ffe4b5;
+    text-decoration:none;
+    font-size:30px;
+    margin-left:40px;
+}
+.links a:hover{
+    color:#800000;
+}
+.foot p{
+    font-size:30px;
+    line-height:15px;
+    text-align:center;
+    color:beige;
+}
+#live{
+    color:black;
+}
+#live:hover{
+    color:beige;
+}
+#rape:hover{
+   color:red; 
+}
+.sub p{
+    margin-top:50px;
+    font-size:25px;
+    color:lightgreen;
+}
+.cv{
+    border:2px solid brown;
+    font-size:25px;
+}
+.info{
+    font-size:30px;
+    color:burlywood;
+}
+.info i{
+    color:wheat;
+}
+img{
+    margin-left:33.3%;
+    border:5px solid lightcoral;
+    border-radius:20px;
+}
+.cv a{
+    color:black;
+    text-decoration:none;
+}
+.cv:hover{
+    color:olivedrab;
+}
+
+hr{
+    margin-top:300px;
+}

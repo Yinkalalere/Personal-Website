@@ -1,31 +1,141 @@
 body{
-    background-color:black;
-    color:beige;
+    background: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    overflow: hidden;
+    
 }
-.name h1{
-    text-align:center;
-    font-size:50px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.name{
-    line-height:15px;
-}
+
 .name p{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size:35px;
     text-align:center;
+    color:whitesmoke;
 }
-.links{
-    text-align:center;
+
+#about{
+    padding-top: 98px;
+    padding-bottom: 101px;
 }
-.links a{
-    color:#ffe4b5;
+
+#about .triangle-right{
+    margin-top: 95px;
+    width: 0;
+    height: 0;
+    border-top: 259px solid transparent;
+    border-left: 470px solid #d6c6b2;
+    border-bottom: 259px solid transparent;
+    
+    
+}
+
+#about .triangle-right img{
+    position: absolute;
+    left: -1px;
+    top: 81px;
+    width: 74%;
+ 
+}
+
+.fa-play{
+    font-size: 100px;
+    
+}
+
+
+#about .p-first{
+    margin-bottom: 30px;
+}
+
+
+#about h2{
+    margin-bottom: 47px;
+    margin-top: 12px;
+    
+}
+
+
+#about .social-link-text{
+    margin-top: 50px;
+    margin-bottom: 25px;			
+    
+}
+
+#about .about-link{
+    padding-left: 0px;
+}
+
+#about .about-link li{
+    display: inline-block;
+}
+
+#about .about-link li a i{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid #d6c6b2;
+    margin-right: 10px;
+    font-size: 16px;
+    color: #d6c6b2;
+    transition: all .3s;
+    
+}
+
+
+#about .about-link li a i:hover{
+    color: #222222;
+    background: #d6c6b2;
+    border-color: #d6c6b2;
+    
+}
+
+
+#about .about-img{
+    position: relative;
+    
+}
+
+#about .about-img{
+    position: relative;
+    
+}
+
+#about .about-img .man{
+    position: absolute;
+    bottom: 161px;
+    top: 12px;
+    left: -2px;
+    
+}
+
+.color-3{
+    color: brown;
+}
+
+
+.text-white{
+    color:beige;
+}
+
+
+p{
+    margin-bottom: 0;
+    font-size: 25px;
+    line-height: 30px;
+    color: #d6c6b2;b
+}
+
+.btn-danger{
+    border-radius: 0;
+    padding: 10px 20px;
+    margin-bottom:20px;
+}
+.btn-danger a{
     text-decoration:none;
-    font-size:30px;
-    margin-left:40px;
-}
-.links a:hover{
-    color:#800000;
+    color:royalblue;
+    font-size:20px;
 }
 .foot p{
     font-size:30px;
@@ -42,6 +152,51 @@ body{
 #rape:hover{
    color:red; 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+body{
+    background-color:black;
+    color:beige;
+}
+
+.links{
+    text-align:center;
+}
+.links a{
+    color:#ffe4b5;
+    text-decoration:none;
+    font-size:30px;
+    margin-left:40px;
+}
+.links a:hover{
+    color:#800000;
+}
+
 .sub p{
     margin-top:50px;
     font-size:25px;
@@ -59,7 +214,7 @@ body{
     color:wheat;
 }
 img{
-    margin-left:33.3%;
+    margin-left:25%;
     border:5px solid lightcoral;
     border-radius:20px;
 }
@@ -67,10 +222,8 @@ img{
     color:black;
     text-decoration:none;
 }
-.cv:hover{
-    color:olivedrab;
-}
 
 hr{
-    margin-top:300px;
+    margin-top:200px;
 }
+*/

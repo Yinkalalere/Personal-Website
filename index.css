@@ -2,7 +2,7 @@ body{
     background: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: justify;
-    overflow: hidden;
+    overflow:scroll;
     
 }
 
@@ -178,52 +178,3 @@ p{
 
 
 
-/*
-body{
-    background-color:black;
-    color:beige;
-}
-
-.links{
-    text-align:center;
-}
-.links a{
-    color:#ffe4b5;
-    text-decoration:none;
-    font-size:30px;
-    margin-left:40px;
-}
-.links a:hover{
-    color:#800000;
-}
-
-.sub p{
-    margin-top:50px;
-    font-size:25px;
-    color:lightgreen;
-}
-.cv{
-    border:2px solid brown;
-    font-size:25px;
-}
-.info{
-    font-size:30px;
-    color:burlywood;
-}
-.info i{
-    color:wheat;
-}
-img{
-    margin-left:25%;
-    border:5px solid lightcoral;
-    border-radius:20px;
-}
-.cv a{
-    color:black;
-    text-decoration:none;
-}
-
-hr{
-    margin-top:200px;
-}
-*/
